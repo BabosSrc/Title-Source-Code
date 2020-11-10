@@ -1,0 +1,9 @@
+name: Title
+main: MulkiAqi192\Title\Main
+author: MulkiAqi192
+api: [3.12.0, 3.12.2]
+version: 1.0
+
+commands:
+  epic:
+    description: "You are EPIC"
